@@ -55,8 +55,13 @@ print("Predicted Result:",y_prednew)
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/e603bb98-b262-4b7a-ae8e-f68de21e1b91)
+![image](https://github.com/user-attachments/assets/064a3e97-bd85-458c-b279-ed9d66e9cfb6)
+![image](https://github.com/user-attachments/assets/edc905d3-71e3-410d-b209-a794f0b4545c)
+![image](https://github.com/user-attachments/assets/27a2281b-8ec8-468f-9ded-e2f62d20993c)
+![image](https://github.com/user-attachments/assets/1ec63687-8327-4665-a77d-adc91c4d895f)
 
-![Screenshot 2024-10-05 140602](https://github.com/user-attachments/assets/ce387179-69b0-4611-a50e-3f8aeec5c55e)
+
 
 
 ## Result:
